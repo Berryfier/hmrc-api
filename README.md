@@ -12,7 +12,7 @@ For usage, first look in each of the python files.
 | Resources | File |
 | --- | --- |
 | Create a test user which is an organisation | test2userAPI.py |
-| Retrieve VAT obligations | Test3i.py |
+| Retrieve VAT obligations | Test4i.py |
 | Submit VAT return for period | Test5i.py |
 | View VAT return | Test4i.py |
 | Retrieve VAT liabilities | Test4i.py |
